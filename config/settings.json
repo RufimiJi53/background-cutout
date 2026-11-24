@@ -1,0 +1,26 @@
+{
+  "module": "background-cutout",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "remover": {
+      "enabled": true
+    },
+    "video": {
+      "enabled": true
+    },
+    "batch": {
+      "enabled": true
+    },
+    "bg": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
