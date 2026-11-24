@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: background-cutout, rembg, photo, video, background-remover, u2net, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+background-remover u2net rembg photo video bg-remover-ai background-cutout ai-background-remover windows portable prebuilt x64 free download
+related: background-remover, u2net, rembg, photo, video
